@@ -2,7 +2,7 @@
 
 ## Download
 
-You can download the latest release from the [GitHub Releases](https://github.com/yourusername/photo-resizer/releases) page.
+You can download the latest release from the [GitHub Releases](https://github.com/mdabdullahalaminkhan/Photo-Resizer/releases/download/v1.0.0/photo-resizer.Setup.1.0.0.exe) page.
 
 Photo Resizer is a simple desktop application built with Electron that allows users to resize images.
 
@@ -52,4 +52,4 @@ Md Abdullah Al Amin Khan
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
