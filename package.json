@@ -1,0 +1,29 @@
+{
+  "name": "photo-resizer",
+  "version": "v1.0.0",
+  "description": "A simple photo resizer desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "author": {
+    "name": "Md Abdullah Al Amin Khan",
+    "url": "https://mdabdullahalaminkhan.vercel.app/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0",
+    "electron-builder": "^24.13.3"
+  },
+  "dependencies": {
+    "sharp": "^0.33.1"
+  },
+  "build": {
+    "appId": "com.photoresizer.app",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    }
+  }
+}
